@@ -1,0 +1,7 @@
+{
+  "displayName": "TestBlock",
+  "shape": "ShapeTestModule:TestBlockShape",
+  "tiles": {
+    "center": "ShapeTestModule:Companion"
+  }
+}

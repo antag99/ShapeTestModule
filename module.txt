@@ -1,0 +1,11 @@
+{
+  "id": "ShapeTestModule",
+  "version": "1.0.0-SNAPSHOT",
+  "author": "ShapeTestModule",
+  "displayName": "ShapeTestModule",
+  "description": "",
+  "dependencies": [
+  ],
+  "serverSideOnly": false,
+  "isAsset": false
+}
